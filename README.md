@@ -10,4 +10,4 @@ clone the repo and open the path with matlab, add the eamonnMP folder to the mat
 Copyright (c) 2019 Khoa Dang, released under the MIT license. 
 This project uses open source components: 
 
-The matrix profile and time series snippets calculation implementation were done Dr. Eamonn Keogh and his lab team at University of California, Riverside. 
+The matrix profile and time series snippets calculation implementation were done Dr. Eamonn Keogh and his lab team at University of California, Riverside: https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
