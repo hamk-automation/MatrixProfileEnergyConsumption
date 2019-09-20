@@ -7,7 +7,7 @@ The repo consists of the dataset on Sheet Metal Center building, Hämeenlinna, F
 ## Instructions
 clone the repo and open the path with matlab, add the eamonnMP folder to the matlab path also. Execute rakfy2019.m to perform the profiling on the geothermal heatpump energy consumption in the 2018-2019 winter. 
 
-Copyright (c) 2019 Khoa Dang, Released under the MIT license
+Copyright (c) 2019 Khoa Dang, released under the MIT license. 
 This project uses open source components: 
 
 The matrix profile and time series snippets calculation implementation were done Dr. Eamonn Keogh and his lab team at University of California, Riverside. 
